@@ -5,5 +5,6 @@
   "textFontFamily": "Roboto",
   "monospaceFontFamily": "RobotoMono Nerd Font Mono",
   "nativeMenus": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 17
 }

@@ -6,5 +6,6 @@ created: '2023-12-18T16:34:59.946Z'
 modified: '2023-12-18T16:38:42.391Z'
 ---
 
-# notable
+# Obsidian Notes
 My public notes repo
+
