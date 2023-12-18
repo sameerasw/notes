@@ -1,0 +1,9 @@
+{
+  "accentColor": "#009973",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Roboto,RobotoMono Nerd Font",
+  "textFontFamily": "Roboto",
+  "monospaceFontFamily": "RobotoMono Nerd Font Mono",
+  "nativeMenus": true,
+  "theme": "obsidian"
+}
