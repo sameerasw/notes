@@ -9,3 +9,5 @@ banner_icon: 🏠
 # Home
 
 🖊 [Kotlin](obsidian://open?vault=notes&file=Kotlin%2FKotlin%20Notes)
+
+Hi! Have a nice day!
